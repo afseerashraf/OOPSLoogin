@@ -20,7 +20,7 @@
                     <input class="form-control" type='password' name='pwd' placeholder="password">
                     <input class="form-control" type='password' name='pwdrepeat' placeholder="repeat password">
                      <input class="form-control" type='text' name='email' placeholder="Emaile"><br>
-                     <button type="button" class="btn btn-outline-primary">Signup</button>
+                     <button type="button" class="btn btn-outline-dark">Signup</button>
 
 
 
@@ -32,7 +32,7 @@
             <form action='include/login.inc.php' method='POST'>
                 <input type='text' class="form-control"   name='uid' placeholder="username">
                 <input type='password' class="form-control"   name='pwd' placeholder="password">
-                <button type='submit' class="btn btn-outline-info" name='submit'>Login</button>
+                <button type='submit' class="btn btn-outline-primory" name='submit'>Login</button>
 
             </form>
         </div>
